@@ -1,25 +1,31 @@
+<div align="center">
 
-  ## Hi, There I'm Sajal Aggarwal 👋
----
-   ## 🚀 About Me
-  
+## Hi, There I'm Sajal Aggarwal 👋
+
+## 🚀 About Me
+
+<div align="left">
 - 🔭 I'm currently working as **SDET Intern at Info Edge Pvt. Ltd. (Naukri), Noida...**
 
 - 👯 Previously, I worked as a **Full Stack Developer Intern at NullClass Technologies** and a **Front-End Developer Intern at TechiesGateway IT Solutions**.
 
-- 👯 I'm looking to collaborate on **Front-End Development, Full-Stack Projects,SQA and Software Automation Testing Automation**.
+- 👯 I'm looking to collaborate on **Front-End Development, Full-Stack Projects, SQA, and Software Automation Testing Automation**.
 
-- 💬 Ask me about **Front-End Development, Full-Stack Development, Automation, SDET, Software Testing and Project Management**.
+- 💬 Ask me about **Front-End Development, Full-Stack Development, Automation, SDET, Software Testing, and Project Management**.
 
 - 📫 How to reach me: Email me at **sajal72003@gmail.com**.
 
 - ⚡ Favourite Quote: **'_I belong to the warrior in whom the old ways have joined the new._'**
+</div>
+
+## 📊 GitHub Stats
+
+![Sajal-2003's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajal-2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajal-2003&layout=compact&theme=radical)](https://github.com/Sajal-2003)
 
 ## 🤝 Connect with Me
-<div align="center">
-
-</div>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/Sajal-2003" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
@@ -34,14 +40,11 @@
   </a>
 </div>
 
-
----
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
 </div>
 
----
-## 💻 My Tech Stack
+## 💻 My Tech-Stack:
 
 ### 🌐 Languages:
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -68,17 +71,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
----
-
-For a **bad pun**:  
-"Why do programmers prefer dark mode? Because the light attracts bugs! 🐞"
----
-
----
-
 ## 🙏 Thank you for visiting my profile!
 
 Feel free to connect with me and explore my repositories. Your support and interest mean a lot!  
 Happy coding! 🚀
 
----
+</div>
