@@ -5,6 +5,7 @@
 ## 🚀 About Me
 
 <div align="left">
+
 - 🔭 I'm currently working as **SDET Intern at Info Edge Pvt. Ltd. (Naukri), Noida...**
 
 - 👯 Previously, I worked as a **Full Stack Developer Intern at NullClass Technologies** and a **Front-End Developer Intern at TechiesGateway IT Solutions**.
