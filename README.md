@@ -1,6 +1,6 @@
-- Hi, I’m @Sajal-2003
-- I'm Final B.Tech CSE student at Ajay Kumar Garg Engineering College.
-- I'm always looking for oppurtunities enabling me to learn exciting technologies to boost my passion for programming.
-- I’m currently learning Web Development.
-- Feel free me to contact me for potential work oppurtunities: sajal72003@gmail.com
+Hi, I’m @Sajal-2003
+Final B.Tech CSE student at Ajay Kumar Garg Engineering College.
+Currently working as a SDET intern at InfoEdge Pvt. Ltd. (Naukri).
+Passionate Web Developer with problem solver in C/C++.
+Feel free me to contact me for potential work oppurtunities: sajal72003@gmail.com
 
